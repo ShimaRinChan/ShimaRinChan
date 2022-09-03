@@ -32,6 +32,6 @@ Just Coding for fun.
 ### Contact
 Welcome to chat with me! Here is my contact.
 
-- my little room : [blog ](https://www.baidu.com)( zh-CN ).
+- my little room : [blog ](#)( zh-CN ).
 
 -  QID : Konata007
