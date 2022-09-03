@@ -32,6 +32,6 @@ Just Coding for fun.
 ### Contact
 Welcome to chat with me! Here is my contact.
 
-- my little room : [blog ](#)( zh-CN ).
+- my little room : [blog ](http://1.12.229.162:81/)( zh-CN ).
 
 -  QID : Konata007
