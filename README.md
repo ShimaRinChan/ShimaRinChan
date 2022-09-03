@@ -24,7 +24,7 @@ Just Coding for fun.
 <br>
 
 <a href="#">
-  <img  style="display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimarinchan&layout=compact">
+  <img width="100%"  style="display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimarinchan&layout=compact">
 </a>
 
 ---
